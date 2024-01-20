@@ -25,3 +25,6 @@ To run the project, follow these steps:
 Feel free to clone this repository and adapt the code for your needs. Ensure to follow the provided guidelines and give proper credit if adapting code from online sources.
 
 Special thanks to Dr. Aldo Lipani, the module coordinator, for providing guidance throughout the course.
+
+
+![Output Image](https://github.com/vittorio-zoccola/Point-in-Polygon-Test/raw/main/Output%20Image.png)
